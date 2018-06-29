@@ -68,7 +68,7 @@ int main() {
 			}
 			cout << "\n";
 		}
-		for (int i = n-1; i >=0; i--) {
+		for (int i = n-2; i >=0; i--) {
 			for (int j = 0; j < 2 * n - 1; j++) {
 				cout << mat[i][j];
 			}
