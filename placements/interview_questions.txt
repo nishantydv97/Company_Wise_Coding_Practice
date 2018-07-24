@@ -1,0 +1,37 @@
+############################coding questions###################################
+
+1.  palindrome 
+2.  decimal to binary
+3.  strong number 
+4.  2nd largest number in array  
+5.  reverse a linklist.
+6.  finding year is leep year or not .
+7.  write own implimentation of ParseInt method().
+8.  find non repeating cheracter from string in O(n) complexity .
+9.  print pascal triangle and reverse pascal .
+10. reverse string without crating another .
+11. Oop concepts.
+
+
+
+###########################theoretical questions################################
+
+
+1.  Difference between finally finalize.
+2.  why array start with index 0.
+3.  difference between == and equals().
+4.  what is final keywords and how to use it .
+5.  basics of array list of java.
+6.  defference between interface and abstract , class and object , aggregation , overloading and overriding.
+7.  git commands and useses.
+8.  
+
+
+
+#########################puzzles questions######################################
+
+1. bucket water puzzels.
+2. fruits and basket puzzles.
+3. bridge puzzles.
+4. river temple flowers puzzles.
+5. 
